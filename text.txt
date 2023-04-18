@@ -1,0 +1,2 @@
+TV_type:TV_type:TV_type:TV_type:asdasd    -  Name:  Name:  Name:  Name:asdas    - Type name: Type name: Type name: Type name:asd    -  Episodes:  Episodes:  Episodes:  Episodes:45TV_type:yahya TV_type:Anime 
+TV_type:Dizi -  Name:Brakingbad - Type name:crime -  Episodes:54
